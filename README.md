@@ -24,6 +24,6 @@ using OpenAI baselines. This agent ran successfully on OpenAI gym.
 with weights included for trained agents in `examples/`. Merging this with cleverhans
 attacks also proved very difficult.
 
-* [RLMA](https://github.com/RLMA2019/RLMA)
+* [RLMA](https://github.com/RLMA2019/RLMA) RLMA code for the paper: Minimalistic Attacks: How Little it Takes to Fool a Deep Reinforcement Learning Policy, which describes methods for implementing attacks with minimal perturbation efforts
 
-* [atari-rl](https://github.com/gsurma/atari)
+* [atari-rl](https://github.com/gsurma/atari) Alternative implemenations of OpenAI Gym RL Agents for Atari games with additional documentation, providing a source of pre-trained agents to implement and evaluate adversarial attacks on
